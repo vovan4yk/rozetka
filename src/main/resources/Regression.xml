@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="SPOT">
+    <test name="Check main flow">
+        <classes>
+            <class name="RozetkaMainCheckTest"/>
+        </classes>
+    </test>
+</suite>
